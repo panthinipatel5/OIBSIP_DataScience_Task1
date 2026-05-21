@@ -125,14 +125,21 @@ The Streamlit dashboard allows users to:
 # 📂 Project Structure
 
 ```text
-Iris_Project/
+Task1_Iris_Flower_Classification/
 │
-├── app.py
-├── Iris.csv
-├── iris_model.pkl
-├── README.md
-├── PanthiniPatel_Task1.ipynb
-├── pairplot.png
+├── Iris_Project/
+│     ├── Iris.csv
+│     ├── app.py
+│     ├── iris_model.pkl
+│     └── pairplot.png
+│
+├── Task1/
+│     ├── Iris.csv
+│     ├── PanthiniPatel_Task1.ipynb
+│     ├── iris_model.pkl
+│     └── pairplot.png
+│
+└── README.md
 ```
 
 ---
@@ -143,7 +150,7 @@ Iris_Project/
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/your-username/Iris-Flower-Classification.git
+git clone https://github.com/panthinipatel5/Iris-Flower-Classification.git
 ```
 ---
 

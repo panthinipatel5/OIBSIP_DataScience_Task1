@@ -125,20 +125,13 @@ The Streamlit dashboard allows users to:
 # 📂 Project Structure
 
 ```text
-Task1_Iris_Flower_Classification/
+Iris-Flower-Classification/
 │
-├── Iris_Project/
-│     ├── Iris.csv
-│     ├── app.py
-│     ├── iris_model.pkl
-│     └── pairplot.png
-│
-├── Task1/
-│     ├── Iris.csv
-│     ├── PanthiniPatel_Task1.ipynb
-│     ├── iris_model.pkl
-│     └── pairplot.png
-│
+├── Iris.csv
+├── PanthiniPatel_Task1.ipynb
+├── app.py
+├── iris_model.pkl
+├── pairplot.png
 └── README.md
 ```
 

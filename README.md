@@ -284,7 +284,7 @@ Task1_Iris_Flower_Classification/
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/panthinipatel5/OIBSIP.git
+git clone https://github.com/panthinipatel5/OIBSIP_DataScience_Task1.git
 ```
 
 ## 2️⃣ Navigate to Project Folder
